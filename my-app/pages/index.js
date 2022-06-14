@@ -185,7 +185,7 @@ export default function Home() {
         providerOptions: {},
         disableInjectedProvider: false,
       });
-      'connectWallet'();
+      connectWallet();
     }
   }, [walletConnected]);
 
