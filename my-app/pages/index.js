@@ -200,7 +200,7 @@ export default function Home() {
         <div>
           <h1 className={styles.title}>Welcome to StocksNation DAO WebPage</h1>
           <div className={styles.description}>
-            It's an ICO for StocksNation DAO
+            Its an ICO for StocksNation DAO
           </div>
           <div className={styles.description}>
             {numberOfWhitelisted} have already joined the Whitelist
